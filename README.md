@@ -4,7 +4,7 @@
 |-|-|-|
 |.|.|.|
 |.|.|.|
-|.|.|.|
+|.|.|O|
 
 ## Commandes liées aux branches
 

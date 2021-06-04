@@ -2,9 +2,9 @@
 
 | | | |
 |-|-|-|
-|X|O|O|
-|.|O|.|
-|X|X|X|
+|.|.|.|
+|.|.|.|
+|.|.|.|
 
 ## Commandes liées aux branches
 
